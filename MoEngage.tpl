@@ -14,6 +14,7 @@ ___INFO___
   "version": 1,
   "securityGroups": [],
   "displayName": "MoEngage",
+  "categories": ["MARKETING"],
   "brand": {
     "id": "brand_dummy",
     "displayName": "",
