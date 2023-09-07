@@ -1,5 +1,5 @@
 homepage: "https://www.moengage.com/"
 documentation: "https://partners.moengage.com/hc/en-us/articles/18905962328340-Snowplow"
 versions:
-  - sha: c306c312d3dfe5a26a8651b66f1e3cee19ff878f
+  - sha: 3a4f5bc594cc536e850934f92085d872eff48464
     changeNotes: Initial release.
